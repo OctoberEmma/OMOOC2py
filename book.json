@@ -3,13 +3,15 @@
     "description": "OMOOC.py tutorial for teching",
     "author": "OMOOC-support <omooc-support@googlegroups.com>",
 
-    "plugins": [
-        "disqus": {
+ "plugins": ["disqus"],
+
+    "pluginsConfig": 
+    	{  
+        "disqus": 
+        	{
             "shortName": "octoberemma"
-        }
-    ],
-    "pluginsConfig": {
-        "shortName": "Openmindclub"
-    }
+       		}
+
+  		},
 }
 
