@@ -4,7 +4,9 @@
     "author": "OMOOC-support <omooc-support@googlegroups.com>",
 
     "plugins": [
-        "disqus"
+        "disqus": {
+            "shortName": "octoberemma"
+        }
     ],
     "pluginsConfig": {
         "shortName": "Openmindclub"
