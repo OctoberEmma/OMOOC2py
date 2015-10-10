@@ -8,6 +8,8 @@
         "disqus"
     ],
     "pluginsConfig": {
+        "disqus":{
         "shortName": "octoberemma"
-    }
+        }
+        }
 }
